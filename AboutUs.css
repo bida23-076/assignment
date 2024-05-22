@@ -27,7 +27,7 @@ header .logo{
   text-decoration: none;
 }
 
-.logo img{
+img.logo{
   width: 90px;
   height: 60px;
   cursor:pointer;
